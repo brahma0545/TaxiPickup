@@ -1,2 +1,3 @@
 *.csv
 *.crdownload
+taxi_zones/*.*
