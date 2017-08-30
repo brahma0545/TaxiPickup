@@ -1,3 +1,4 @@
 *.csv
 *.crdownload
 taxi_zones/*.*
+.ipynb_checkpoints/*.*
